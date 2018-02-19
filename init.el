@@ -9,3 +9,4 @@
 
 (require 'init-display)
 (require 'init-keybinding)
+(require 'init-c)
