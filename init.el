@@ -8,5 +8,6 @@
 
 
 (require 'init-display)
+(require 'init-edit)
 (require 'init-keybinding)
 (require 'init-c)
